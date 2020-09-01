@@ -1,0 +1,87 @@
+.navbar-light .navbar-brand{
+    color: red;
+}
+.navbar-light .navbar-brand:hover{
+    color: red;
+}
+.logo{
+    color: blue;
+}
+.ban{
+    width: 100%;
+    min-height: 40px;
+    background: #003;
+    padding-top:7px;
+}
+.ban span{
+    color: white;
+    
+}
+span a{
+    text-decoration: none;
+    color: inherit;
+}
+span a:hover{
+    color: white;
+}
+section{
+    margin: 0 auto;
+}
+section p {
+    width: 80%;
+   
+    border: 1px ;
+    text-align: justify;
+    padding: 6px;
+    -webkit-box-shadow: -2px 3px 21px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 3px 21px 5px rgba(0,0,0,0.75);
+    box-shadow: -2px 3px 21px 5px rgba(0,0,0,0.75);
+}
+section .img img{
+    width: 80%;
+    min-height: 300px;
+    border: 1px ;
+    text-align: justify;
+    
+    -webkit-box-shadow: -2px 3px 21px 5px rgba(0,0,0,0.75);
+    -moz-box-shadow: -2px 3px 21px 5px rgba(0,0,0,0.75);
+    box-shadow: -2px 3px 21px 5px rgba(0,0,0,0.75);
+    
+   
+}
+footer{
+    background: black;
+    text-align: center;
+}
+
+footer .para{
+    color: yellow;
+    text-align: center;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}   
+h5,.cadre{
+    color: white;
+}
+.cadre{
+    height: 200px;
+    padding-top: 5px;
+    -webkit-box-shadow: 5px 4px 3px -1px rgba(255,255,255,1);
+    -moz-box-shadow: 5px 4px 3px -1px rgba(255,255,255,1);
+    box-shadow: 5px 4px 3px -1px rgba(255,255,255,1);
+    font-size: 18px;
+}
+.fab{
+    font-size: 30px;
+    margin-right: 8px;
+}
+.fa-facebook-square,.fa-copyright{
+    color: blue;
+}
+.fa-google-plus-square,.fa-youtube{
+    color: red;
+}
+.fa-twitter{
+    color: aqua;
+}
